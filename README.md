@@ -1,4 +1,8 @@
 
+![](https://raw.githubusercontent.com/Dikradev/Dikradev/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Dikradev/Dikradev/output/github-contribution-grid-snake.svggh-light-mode-only)
+
+
 ## **☕ About me**
 I'm Dikra 19 yo from Algeria, i like tinkering with random stuff like coding.
 
@@ -11,8 +15,10 @@ I'm currently studying Computer engineering, and I am still learning. I don't ha
 
 
 ## **📊 Github Stats**
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Dikradev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dikradev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Dikradev&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Dikradev&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dikradev&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 <!---
 Dikradev/Dikradev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,3 +34,10 @@ According to my experience with equations, the most difficult equation for me wa
 
 
 <a href="https://github.com/Dikradev"><img width="500" src="./image.jpg"></a>
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
+[![](https://visitcount.itsvg.in/api?id=Dikradev&icon=0&color=0)](https://visitcount.itsvg.in)
+

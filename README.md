@@ -6,7 +6,7 @@ I'm Dikra 19 yo from Algeria, i like tinkering with random stuff like coding.
 ###### (this beauty gif is not mine)
 
 ## **💻 Experience**
-<a href="https://github.com/Dikradev"><img align="right" width="100" src="./images/"></a>
+<a href="https://github.com/Dikradev"><img align="right" width="100" src="./ada.png"></a>
 I'm currently studying Computer engineering, and I am still learning. I don't have anything special, but I hope to be able to change that in the future.
 
 ## **📊 Github Stats**

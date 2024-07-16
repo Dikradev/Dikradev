@@ -9,6 +9,7 @@ I'm Dikra 19 yo from Algeria, i like tinkering with random stuff like coding.
 <a href="https://github.com/Dikradev"><img align="right" width="100" src="./ada.png"></a>
 I'm currently studying Computer engineering, and I am still learning. I don't have anything special, but I hope to be able to change that in the future.
 
+
 ## **📊 Github Stats**
 
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Dikradev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dikradev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>

@@ -2,6 +2,7 @@
 ![](https://raw.githubusercontent.com/rorydevella/rorydevella/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/rorydevella/rorydevella/output/github-contribution-grid-snake.svggh-light-mode-only)
 
+![](https://tenor.com/fr/view/cute-cat-gif-3559269868840942104)
 
 ## **☕ About me**
 i like tinkering with random stuff like coding.

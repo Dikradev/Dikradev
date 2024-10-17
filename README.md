@@ -1,6 +1,6 @@
 
-![](https://raw.githubusercontent.com/Dikradev/Dikradev/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Dikradev/Dikradev/output/github-contribution-grid-snake.svggh-light-mode-only)
+![](https://raw.githubusercontent.com/rorydevella/rorydevella/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/rorydevella/rorydevella/output/github-contribution-grid-snake.svggh-light-mode-only)
 
 
 ## **☕ About me**
@@ -15,9 +15,9 @@ I'm currently studying Computer engineering, and I am still learning. I don't ha
 
 
 ## **📊 Github Stats**
-![](https://github-readme-stats.vercel.app/api?username=Dikradev&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dikradev&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dikradev&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=rorydevella&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rorydevella&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rorydevella&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <!---

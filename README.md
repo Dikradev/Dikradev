@@ -1,5 +1,8 @@
 
+<div align="center">
+<h1>🌸Welcome Everyone🌸</h1>
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3RubHYzMGQyZTFrOTdsZmY0NTI5cmZkejFmNm9paG4zeTFvemtwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6wO1nlX9tiL0xWx2/giphy.webp" width="480" height="360">
+</div>
 
 ## **☕ About me**
 i like tinkering with random stuff like coding.

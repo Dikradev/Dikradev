@@ -4,7 +4,7 @@
 
 
 ## **☕ About me**
-I'm Dikra 19 yo from Algeria, i like tinkering with random stuff like coding.
+i like tinkering with random stuff like coding.
 
 ![I have stolen this gif](https://c.tenor.com/CwZDbX7DvR8AAAAd/pixel-sakura.gif) 
 ###### (this beauty gif is not mine)

@@ -1,8 +1,5 @@
 
-![](https://raw.githubusercontent.com/rorydevella/rorydevella/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/rorydevella/rorydevella/output/github-contribution-grid-snake.svggh-light-mode-only)
-
-![](https://tenor.com/fr/view/cute-cat-gif-3559269868840942104)
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3RubHYzMGQyZTFrOTdsZmY0NTI5cmZkejFmNm9paG4zeTFvemtwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6wO1nlX9tiL0xWx2/giphy.webp" width="480" height="360">
 
 ## **☕ About me**
 i like tinkering with random stuff like coding.
